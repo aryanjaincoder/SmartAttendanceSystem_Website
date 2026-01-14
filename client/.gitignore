@@ -7,7 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 faceRegistration.jsx
-firebase/
+client/src/firebase/
 node_modules
 dist
 dist-ssr
